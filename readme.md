@@ -2,7 +2,7 @@
 
 A desktop application for digitizing paper-based police record books at the Policia Local de l'Arboç (Tarragona, Spain). Built with Electron — runs fully offline, no server, no cloud.
 
-Developed by Juan Pablo Bartrina.
+Developed by Juan Pablo Gienini Donato.
 
 ---
 
